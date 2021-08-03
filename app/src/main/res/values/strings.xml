@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">Pizza Compare</string>
+    <string name="pizza_size">Pizza size</string>
+    <string name="pizza_price">Price</string>
+    <string name="pizza_1">Pizza #1</string>
+    <string name="pizza_2">Pizza #2</string>
+    <string name="pizza_amount">Amount</string>
+    <string name="compare">Compare</string>
+    <string name="measurement">cm^2</string>
+    <string name="pizza_compare_size">If you want the most pizza you should get %1$s. It has %2$.2f %3$s</string>
+    <string name="pizza_compare_money">If you want the best bang for your buck you should get %1$s. It costs %2$.2f</string>
+
+
+</resources>

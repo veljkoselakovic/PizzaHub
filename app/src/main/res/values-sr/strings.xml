@@ -1,0 +1,15 @@
+
+<resources>
+    <string name="app_name">Uporedi pice!</string>
+    <string name="pizza_size">Veličina pice</string>
+    <string name="pizza_price">Cena</string>
+    <string name="pizza_1">Pizza #1</string>
+    <string name="pizza_2">Pizza #2</string>
+    <string name="pizza_amount">Količina</string>
+    <string name="compare">Uporedi!</string>
+    <string name="measurement">cm^2</string>
+    <string name="pizza_compare_size">Ako želiš najviše pice, uzmi %1$s. Ima površinu od %2$.2f%3$s</string>
+    <string name="pizza_compare_money">Ako želiš najbolju cenu, uzmi %1$s. Košta %2$.2f</string>
+
+
+</resources>
