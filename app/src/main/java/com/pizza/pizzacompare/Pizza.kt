@@ -6,7 +6,7 @@ class Pizza(
     val price: Double
     ){
     fun getArea() : Double {
-        return diameter * diameter * kotlin.math.PI
+        return diameter * diameter * kotlin.math.PI / 4.00
     }
     fun getDiameter() : Double {
         return diameter
